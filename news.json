@@ -1,0 +1,10 @@
+{
+    "news": [
+        {
+            "date": "2017-06-14",
+            "title": "Example",
+            "description": "Example description",
+            "link": "https://raph.site"
+        }
+    ]
+}
