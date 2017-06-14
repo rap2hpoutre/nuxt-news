@@ -29,7 +29,9 @@
     
 </form>
 </div>
-<p class="subtitle">You wrote a blog post about nuxt?<br>You want to submit a new resource?<br><br><a href="">Send us a PR on Github</a></p>
+<p class="subtitle">You wrote a blog post about nuxt?<br>You want to submit a new resource?<br><br><a href="https://github.com/rap2hpoutre/nuxt-news">Send us a PR on Github</a></p>
+<br><br>
+<p>Made with 👣 by <a href="https://twitter.com/rap2h">rap2h</a></p>
 </div>
 
 <!--End mc_embed_signup-->

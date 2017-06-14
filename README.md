@@ -1,22 +1,8 @@
 # nuxt-news
+Subscribe to Nuxt newsletter here:
+https://rap2hpoutre.github.io/nuxt-news/
 
-> Nuxt.js project
+## How to contribute
 
-## Build Setup
-
-``` bash
-# install dependencies
-$ npm install # Or yarn install
-
-# serve with hot reload at localhost:3000
-$ npm run dev
-
-# build for production and launch server
-$ npm run build
-$ npm start
-
-# generate static project
-$ npm run generate
-```
-
-For detailed explanation on how things work, checkout the [Nuxt.js docs](https://github.com/nuxt/nuxt.js).
+Edit (`static/news.json`)[https://github.com/rap2hpoutre/nuxt-news/blob/master/static/news.json] to add your news.
+You can also open an issue if you prefer.
